@@ -1,3 +1,4 @@
 # hello-world
-Repo to learn github \n
+Repo to learn github 
+
 CS/Chemistry at Cornell University
